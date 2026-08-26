@@ -35,7 +35,7 @@ Built and validated **two competing loyalty definitions**:
 - Result: Mislabels 54% of discount-dependent customers as loyal
 - Misses: 185 full-price, high-CLV customers ("Hidden Gems")
 
-**Definition B (Margin + Organic):** ✅ CHOSEN
+**Definition B (Margin + Organic):**  CHOSEN
 - Sophisticated: High CLV + Zero discount dependency = Loyal
 - Result: 54% more accurate than Definition A
 - Captures: True organic buyers vs. promotional volume
@@ -62,9 +62,9 @@ Analyzed customer base across 7 dimensions:
 
 ---
 
-## 📈 Key Findings
+##  Key Findings
 
-### **Finding 1: Definition B is 54% More Accurate** ✅
+### **Finding 1: Definition B is 54% More Accurate**
 | Metric | Definition A | Definition B |
 |--------|-------------|------------|
 | Loyal customers | 2,014 (51.6%) | 1,109 (28.4%) |
@@ -76,7 +76,7 @@ Analyzed customer base across 7 dimensions:
 
 ---
 
-### **Finding 2: $28K Margin Recovery Opportunity** 💰
+### **Finding 2: $28K Margin Recovery Opportunity** 
 **High-Value Customers Being Unnecessarily Discounted:**
 - 574 high-value customers receive 100% discount rate
 - Average CLV: $2,900 (identical to non-discounted peers)
@@ -85,7 +85,7 @@ Analyzed customer base across 7 dimensions:
 
 ---
 
-### **Finding 3: $960K CLV At-Risk Segment** ⚠️
+### **Finding 3: $960K CLV At-Risk Segment** 
 **Low-Satisfaction Loyal Customers (Non-Subscribers):**
 - 401 customers with $2,398 average CLV
 - 0% discount rate (organic, full-price buyers)
@@ -94,7 +94,7 @@ Analyzed customer base across 7 dimensions:
 
 ---
 
-### **Finding 4: Subscription Program Structural Leak** 📉
+### **Finding 4: Subscription Program Structural Leak** 
 | Metric | Subscribers | Non-Subscribers |
 |--------|-------------|-----------------|
 | Total customers | 1,053 (27%) | 2,847 (73%) |
@@ -106,7 +106,7 @@ Analyzed customer base across 7 dimensions:
 
 ---
 
-### **Finding 5: Regional Promotional Dependency** 🗺️
+### **Finding 5: Regional Promotional Dependency** 
 **Organic Leaders vs. Fragile Regions:**
 - **Montana:** $5,784 revenue, **37.5% promo dependency** ← Authentic brand equity
 - **Illinois:** $5,617 revenue, 40.2% promo dependency ← Healthy
@@ -115,7 +115,7 @@ Analyzed customer base across 7 dimensions:
 
 ---
 
-## 🎯 Strategic Recommendations
+##  Strategic Recommendations
 
 ### **Recommendation 1: Subscription Program Redesign** [URGENT]
 **Current State:** 100% automatic discount on $62.6K subscriber revenue  
